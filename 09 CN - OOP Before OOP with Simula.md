@@ -149,7 +149,7 @@ _如果你喜欢这篇文章，欢迎关注推特 [@TwoBitHistory][20]，也可�
 
 _TwoBitHistory 文章回顾……_
 
-> Hey everyone! I sadly haven't had time to do any new writing but I've just put up an updated version of my history of RSS. This version incorporates interviews I've since done with some of the key people behind RSS like Ramanathan Guha and Dan Libby. 嗨，大家好！很遗憾，我最近没有时间写新文章，但是我刚刚更新了我的 RSS 记录，整合了目前为止我私下对一些关键人物的采访，比如 Ramanathan Guha 和 Dan Libby。<https://t.co/WYPhvpTGqB>
+> 嗨，大家好！很遗憾，我最近没有时间写新文章，但是我刚刚更新了我的 RSS 记录，整合了目前为止我私下对一些关键人物的采访，比如 Ramanathan Guha 和 Dan Libby。<https://t.co/WYPhvpTGqB>
 >
 > — TwoBitHistory (@TwoBitHistory) [December 18, 2018][22]
 
